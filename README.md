@@ -51,5 +51,5 @@ spring:
   jpa:
     hibernate:
       ddl-auto: none # create, update, none
-    show-sql: true
+    show-sql: true~
 ```
